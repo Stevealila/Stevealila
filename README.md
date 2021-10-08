@@ -3,7 +3,7 @@
 </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-[![Linkedin: stevealila](https://www.linkedin.com/in/steve-alila-3a4b01141/)]
+[![Linkedin: stevealila](<i class="fa fa-linkedin" aria-hidden="true"></i>)(https://www.linkedin.com/in/steve-alila-3a4b01141/)]
 [![GitHub stevealila](https://github.com/Stevealila/Stevealila/edit/main/README.md)
 
 
