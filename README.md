@@ -3,7 +3,7 @@
 </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-[![Linkedin: stevealila](<img src="https://scontent.fmba5-1.fna.fbcdn.net/v/t1.18169-9/19060211_451113308584712_6079325097476094519_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFdl4TcSZu2IjLSaE-gUXA42HyspDx3RhPYfKykPHdGE1TNPz8LMvE6XkBk0RQfrz3WLI-U1GOP9uz7ROkCNIne&_nc_ohc=vd2yMrU6g40AX_GoKkm&tn=spglt3SFiGZNDYn6&_nc_pt=5&_nc_ht=scontent.fmba5-1.fna&oh=a8769b96fbaca47a302baf765c95c0ab&oe=6184DDAA" width="50">)](https://www.linkedin.com/in/steve-alila-3a4b01141/)
+[![Linkedin: stevealila](https://www.linkedin.com/in/steve-alila-3a4b01141/)]
 [![GitHub stevealila](https://github.com/Stevealila/Stevealila/edit/main/README.md)
 
 
