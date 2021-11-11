@@ -10,10 +10,10 @@
 ```javascript
 const alila = {
   pronouns: "He" | "his",
-  code: [Javascript, C++, PHP, HTML5, CSS3],
+  code: [JavaScript, C++, PHP, HTML5, CSS3],
   tools: [React, Redux, Node, Styled-Components, Docker, Git],
   architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the #100DaysOfCode challenge focused on React"
+ challenge: "I am doing the #30DaysOfCode challenge focused on React"
 }
 ```
 
