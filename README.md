@@ -1,6 +1,6 @@
 <h2> Hi, I'm Steve Alila! </h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://twitter.com/steve_alila/photo" width="230">
 
 [Linkedin](https://www.linkedin.com/in/steve-alila-3a4b01141/)
 
