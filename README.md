@@ -10,8 +10,8 @@
 ```javascript
 const alila = {
   pronouns: "He" | "his",
-  code: [JavaScript, C++, PHP, HTML5, CSS3],
-  tools: [React, Redux, Node, Styled-Components, Docker, Git],
+  code: [JavaScript, C++, Python, PHP, HTML5, CSS3],
+  tools: [React, Flask, Redux, Node, Styled-Components, Docker, Git],
   architecture: ["microservices", "event-driven", "design system pattern"],
  challenge: "I am doing the #30DaysOfCode challenge focused on React"
 }
