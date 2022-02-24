@@ -1,16 +1,14 @@
-<h2> Hi, I'm Steve Alila! </h2>
-
-<img align='right' src="https://twitter.com/steve_alila/photo" width="230">
+<h1> Hi, I'm Steve Alila! </h1>
 
 [Linkedin](https://www.linkedin.com/in/steve-alila-3a4b01141/)
 
 
-### A little more about me...  
+## A little more about me...  
 
 ```javascript
 const alila = {
   pronouns: "He" | "his",
-  code: [JavaScript, C++, Python, PHP, HTML5, CSS3],
+  code: [C, JavaScript, C++, Python, PHP, HTML5, CSS3],
   tools: [React, Flask, Redux, Node, Styled-Components, Docker, Git],
   architecture: ["microservices", "event-driven", "design system pattern"],
  challenge: "I am doing the #30DaysOfCode challenge focused on React"
